@@ -1,0 +1,25 @@
+{
+  "name": "@mohammedalsamki/test_pakage",
+  "version": "1.0.0",
+  "description": "this is a test pakage from samaki",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mohammedalsamki/tets_pakage.git"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "mohammedalsamki",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mohammedalsamki/tets_pakage/issues"
+  },
+  "homepage": "https://github.com/mohammedalsamki/tets_pakage#readme",
+  "devDependencies": {
+    "typescript": "^4.6.4"
+  }
+}
